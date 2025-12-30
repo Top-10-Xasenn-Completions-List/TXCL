@@ -1,18 +1,12 @@
 {
-    "id": 57436521,
+    "id": 43643175,
     "name": "Robotic Nightmares",
     "author": "GMDDEEPSPACE",
     "creators": [],
     "verifier": "GMDDEEPSPACE",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
+    "verification": "None",
+    "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
-        {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        }
     ]
 }
